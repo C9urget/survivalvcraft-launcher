@@ -35,14 +35,14 @@
                     "title": "Error During Login:<br>Unknown Error"
                 }
             },
-            "login": "CONNECTION",
-            "loggingIn": "SE CONNECTER",
+            "login": "CONNEXION",
+            "loggingIn": "CONNECTION EN COURS",
             "success": "Conncté",
             "tryAgain": "Raté"
         },
         "landing": {
             "launch": {
-                "pleaseWait": "Please wait.."
+                "pleaseWait": "Patientez s'il vous plait..."
             }
         }
     }
